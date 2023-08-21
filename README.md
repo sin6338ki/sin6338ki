@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=WELCOME&desc=Jiyoung's%GitHub&descAlign=80&descAlignY=70)
-
 <h3 align="center">📚 Language 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
